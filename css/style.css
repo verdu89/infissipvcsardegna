@@ -984,3 +984,69 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
+/*--------------------------------------------------------------
+# verdu89
+--------------------------------------------------------------*/
+
+.location-subtitle{
+  font-size: 20px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 40px;
+
+}
+
+
+#header-location {
+  padding: 30px 0;
+  height: 92px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  transition: all 0.5s;
+  z-index: 997;
+}
+
+#header-location #logo {
+  float: left;
+}
+
+#header-location #logo h1 {
+  font-size: 36px;
+  margin: 0;
+  padding: 6px 0;
+  line-height: 1;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+#header-location #logo h1 a, #header #logo h1 a:hover {
+  color: #fff;
+}
+
+#header-location #logo img {
+  padding: 0;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  #header-location #logo h1 {
+    font-size: 26px;
+  }
+  #header-location #logo img {
+    max-height: 40px;
+  }
+}
+
+#header-location.header-fixed {
+  background: rgba(152, 150, 146, 0.65);
+  padding: 20px 0;
+  height: 90px;
+  transition: all 0.5s;
+}
