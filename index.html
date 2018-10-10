@@ -454,24 +454,7 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
       <div class="container wow fadeInUp">
         <div class="row justify-content-center">
 
-          <div class="col-lg-3 col-md-4">
-
-            <div class="info">
-              <div>
-                <i class="fa fa-map-marker"></i>
-                <p>Quinta Strada, Z.I. Macchiareddu<br>Assemini, CA 09032</p>
-              </div>
-
-              <div>
-                <i class="fa fa-envelope"></i>
-                <p>info@saverplast.com</p>
-              </div>
-
-              <div>
-                <i class="fa fa-phone"></i>
-              
-              </div>
-            </div>
+        
 
             <!-- <div class="social-links">
               <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
@@ -481,37 +464,44 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
               <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div> -->
 
-          </div>
 
-          <div class="col-lg-5 col-md-8">
+         <div class=" col-lg-6 col-md-8"> 
             <div class="form">
               <div id="sendmessage">Your message has been sent. Thank you!</div>
               <div id="errormessage">Message not sent</div>
-              <form action="" method="post" role="form" class="contactForm">
-                <div class="form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+              <form action="https://script.google.com/macros/s/AKfycbz-XnpWOP1-v2cosUGetAKXOghnP0EocCVQXy-7zA/exec" method="post" role="form" class="contactForm">
+                <div class="form-group ">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nome e Cognome / ragione sociale" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <div class="validation"></div>
+                </div>
+                <div class="form-group ">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="La tua Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <div class="validation"></div>
+                </div>
+                <div class="form-group ">
+                  <input type="text" name="telefono" class="form-control" id="telefono" placeholder="Telefono" data-rule="minlen:4" data-msg="Please enter a valid number" />
+                  <div class="validation"></div>
+                </div>
+                <div class="form-group ">
+                  <input type="text" name="name" class="form-control" id="luogo" placeholder="Luogo di consegna" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validation"></div>
-                </div>
-                <div class="form-group">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                  <div class="validation"></div>
+                  <button type="button" class="">Allega file</button>
                 </div>
                 <div class="form-group">
                   <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                   <div class="validation"></div>
                 </div>
+               
                 <div class="text-center"><button type="submit">Send Message</button></div>
               </form>
             </div>
           </div>
 
-        </div>
 
-      </div>
+
+
     </section><!-- #contact -->
 
   </main>
@@ -577,8 +567,7 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
   <!-- Uncomment below if you want to use dynamic Google Maps -->
   <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8HeI8o-c1NppZA-92oYlXakhDPYR7XMY"></script> -->
 
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
+  
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
