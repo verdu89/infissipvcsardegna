@@ -255,7 +255,7 @@ var portfolioIsotope = $('.portfolio-container').isotope({
     $.ajax({
       type: "POST",
       url: "https://script.google.com/macros/s/AKfycbz-XnpWOP1-v2cosUGetAKXOghnP0EocCVQXy-7zA/exec",
-      header:"Access-Control-Allow-Origin:*",
+     
       data: str,
       success: function(msg) {
         // alert(msg);
@@ -274,7 +274,13 @@ var portfolioIsotope = $('.portfolio-container').isotope({
     return false;
   });
 
+
+
+
+
 });
 
 
-
+function linkNewTabAllega() {
+  window.open('https://script.google.com/macros/s/AKfycbyx2lFsAoAi9GfGsN1WvtWlz_PJYtGe3mwBM17_roF8rHw5CZ0/exec');
+}
