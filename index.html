@@ -467,9 +467,9 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
 
          <div class=" col-lg-6 col-md-8"> 
             <div class="form">
-              <div id="sendmessage">Your message has been sent. Thank you!</div>
-              <div id="errormessage">Message not sent</div>
-              <form action="" method="post" role="form" class="contactForm">
+              <div id="sendmessage"><span style="color: green" class="fa fa-lg fa-check"></span>  Il tuo messaggio è stato correttamente inviato, grazie di averci contattato</div>
+              <div id="errormessage">Errore, messaggio non inviato</div>
+              <form action="" method="post" role="form" class="contactForm" >
                 <div class="form-group ">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Nome e Cognome / ragione sociale" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validation"></div>
@@ -487,10 +487,11 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <button type="button" onclick="linkNewTabAllega()">Allega file</button>
+                  <button id="allegaButton" type="button" >Allega file</button>
+                  <p class="hide" id="textAllega">Hai allegato un con file la nostra applicazione</p>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Messaggio"></textarea>
                   <div class="validation"></div>
                 </div>
                

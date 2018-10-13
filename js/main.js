@@ -257,20 +257,29 @@ var portfolioIsotope = $('.portfolio-container').isotope({
       url: "https://script.google.com/macros/s/AKfycbz-XnpWOP1-v2cosUGetAKXOghnP0EocCVQXy-7zA/exec",
      
       data: str,
-      success: function(msg) {
-        // alert(msg);
-        if (msg == 'OK') {
+      error: function(data) {
+         alert('messaggio inviato');
+        
           $("#sendmessage").addClass("show");
           $("#errormessage").removeClass("show");
-          $('.contactForm').find("input, textarea").val("");
-        } else {
-          $("#sendmessage").removeClass("show");
-          $("#errormessage").addClass("show");
-          $('#errormessage').html(msg);
-        }
+          $('#allegaButton').removeClass('hide');
+          $('#textAllega').addClass('hide');
+
+
+      },
+      success: function(data){
+        alert('messaggio inviato');
+        
+
+          $("#sendmessage").addClass("show");
+          $("#errormessage").removeClass("show");
+          $('#allegaButton').removeClass('hide');
+          $('#textAllega').addClass('hide');
+
 
       }
     });
+    $('.contactForm').find("input, textarea").val("");
     return false;
   });
 
@@ -281,6 +290,10 @@ var portfolioIsotope = $('.portfolio-container').isotope({
 });
 
 
-function linkNewTabAllega() {
+
+$('#allegaButton').click(function(){
   window.open('https://script.google.com/macros/s/AKfycbyx2lFsAoAi9GfGsN1WvtWlz_PJYtGe3mwBM17_roF8rHw5CZ0/exec');
-}
+  $('#allegaButton').addClass('hide');
+  $('#textAllega').removeClass('hide');
+  });
+

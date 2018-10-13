@@ -915,8 +915,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #f5c040;
-  border: 1px solid #f5c040;
+  color: #50a205;
+  border: 1px solid #50a205;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1156,4 +1156,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 #windows h1 {
   text-align: center;
+}
+.hide{
+  display: none;
 }
