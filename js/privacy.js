@@ -4,7 +4,7 @@ var cookiesPolicy = {
     popupTitleFontSize: "18px",
     popupTextFontSize: "11px",
     colorOfButton: "#f5c040",
-    cookieGeneral: "blog.alessandrostella.it",
+    cookieGeneral: "infissipvcsardegna.com",
     cookieCheckPref: "preferences",
     cookieCheckStat: "statistics",
     cookieCheckMark: "marketing",
