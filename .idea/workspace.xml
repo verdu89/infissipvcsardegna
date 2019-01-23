@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="500" column="22" lean-forward="true" selection-start-line="500" selection-start-column="22" selection-end-line="500" selection-end-column="22" />
+            <state relative-caret-position="68">
+              <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -29,10 +29,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="396">
               <caret line="338" column="110" selection-start-line="338" selection-start-column="110" selection-end-line="338" selection-end-column="110" />
             </state>
           </provider>
@@ -51,8 +51,8 @@
       <find>form-</find>
       <find>captc</find>
       <find>form</find>
-      <find>alleg</find>
       <find>allega</find>
+      <find>alleg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -72,8 +72,8 @@
         <option value="$PROJECT_DIR$/stabilimento.html" />
         <option value="$PROJECT_DIR$/accessori.html" />
         <option value="$PROJECT_DIR$/cookiepolicy.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -94,6 +94,11 @@
             <path>
               <item name="infissipvcsardegna.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="infissipvcsardegna.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="infissipvcsardegna.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="infissipvcsardegna.com" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="infissipvcsardegna.com" type="b2602c69:ProjectViewProjectNode" />
@@ -138,12 +143,12 @@
       <workItem from="1547580248917" duration="358000" />
       <workItem from="1548150696467" duration="4105000" />
       <workItem from="1548167926829" duration="24907000" />
-      <workItem from="1548261899072" duration="12330000" />
+      <workItem from="1548261899072" duration="12979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41700000" />
+    <option name="totallyTimeSpent" value="42349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
@@ -254,21 +259,21 @@
         <state relative-caret-position="-1033" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="338" column="110" selection-start-line="338" selection-start-column="110" selection-end-line="338" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="500" column="22" lean-forward="true" selection-start-line="500" selection-start-column="22" selection-end-line="500" selection-end-column="22" />
+        <state relative-caret-position="68">
+          <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="338" column="110" selection-start-line="338" selection-start-column="110" selection-end-line="338" selection-end-column="110" />
         </state>
       </provider>
     </entry>
