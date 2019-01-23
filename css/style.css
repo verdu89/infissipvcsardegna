@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.23);
+  background: rgba(0, 0, 0, 0.0);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -968,7 +968,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #343b40;
+  background: #a9a7a5;
   padding: 30px 0;
   color: #fff;
   font-size: 14px;

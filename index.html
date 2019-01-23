@@ -33,12 +33,15 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-    Theme Name: Regna
-    Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+    <!-- =======================================================
+      Theme Name: Regna
+      Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+      Author: BootstrapMade.com
+      License: https://bootstrapmade.com/license/
+    ======================================================= -->
 </head>
 
 <body>
@@ -50,7 +53,8 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="#hero"><img src="img/logo.png" alt="" title="" /></img><h6 style="color: black;">Industria serramenti in PVC</h6></a>
+        <a href="#hero"><img src="img/logo.png" alt="" title="" > </img><h6 style="color: black;">Industria
+            serramenti in PVC</h6></a>
         <!-- Uncomment below if you prefer to use a text logo -->
         <!--<h1><a href="#hero">Regna</a></h1>-->
       </div>
@@ -367,7 +371,7 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
 
         </div>
 
-      </div>
+
     </section><!-- #portfolio -->
 
     <!--==========================
@@ -499,8 +503,22 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
                   <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Messaggio"></textarea>
                   <div class="validation"></div>
                 </div>
-               
-                <div class="text-center"><button type="submit">Send Message</button></div>
+
+                  <div id="captcha" class="form-group">
+                       <div class=" g-recaptcha"
+                           data-rule="captcha"
+                           data-msg="completa il captcha"
+                           data-callback="recaptchaCallback"
+                           data-sitekey="6Le4vIsUAAAAAGF95wXTjU1drT3GVR-tSkT-zhj5">
+                       </div>
+                      <div class="validation"></div>
+
+
+                  </div>
+
+                  <div class="text-center">
+                    <button type="submit">Send Message</button>
+                </div>
               </form>
             </div>
           </div>
@@ -508,7 +526,7 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
 
 
 
-    </section><!-- #contact -->
+     </section> <!-- #contact -->
 
 
   </main>
@@ -535,7 +553,7 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Saverplast srl</strong>. All Rights Reserved
+        &copy; Copyright 2019 - <strong>Saverplast.com</strong>. All Rights Reserved
       </div>
       
     </div>

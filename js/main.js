@@ -165,6 +165,7 @@ var portfolioIsotope = $('.portfolio-container').isotope({
 
 //Contact
   $('form.contactForm').submit(function() {
+
     var f = $(this).find('.form-group'),
       ferror = false,
       emailExp = /^[^\s()<>@,;:\/]+@\w[\w\.-]+\.[a-z]{2,}$/i;
@@ -215,6 +216,9 @@ var portfolioIsotope = $('.portfolio-container').isotope({
               ferror = ierror = true;
             }
             break;
+
+
+
         }
         i.next('.validation').html((ierror ? (i.attr('data-msg') !== undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
       }
@@ -250,16 +254,50 @@ var portfolioIsotope = $('.portfolio-container').isotope({
         i.next('.validation').html((ierror ? (i.attr('data-msg') != undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
       }
     });
+    f.children('div').each(function() { // run all inputs
+
+      var i = $(this); // current input
+      var rule = i.attr('data-rule');
+
+      if (rule !== undefined) {
+        var ierror = false; // error flag for current input
+        var pos = rule.indexOf(':', 0);
+        if (pos >= 0) {
+          var exp = rule.substr(pos + 1, rule.length);
+          rule = rule.substr(0, pos);
+        } else {
+          rule = rule.substr(pos + 1, rule.length);
+        }
+
+        switch (rule) {
+          case 'captcha':
+            if (grecaptcha && grecaptcha.getResponse().length == 0) {
+
+
+              ferror = ierror = true;
+            }
+            break;
+
+          case 'minlen':
+            if (i.val().length < parseInt(exp)) {
+              ferror = ierror = true;
+            }
+            break;
+        }
+        i.next('.validation').html((ierror ? (i.attr('data-msg') != undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
+      }
+
+    });
     if (ferror) return false;
     else var str = $(this).serialize();
     $.ajax({
       type: "POST",
       url: "https://script.google.com/macros/s/AKfycbz-XnpWOP1-v2cosUGetAKXOghnP0EocCVQXy-7zA/exec",
-     
+
       data: str,
       error: function(data) {
-         alert('messaggio inviato');
-        
+         alert('messaggio non inviato');
+
           $("#sendmessage").addClass("show");
           $("#errormessage").removeClass("show");
           $('#allegaButton').removeClass('hide');
@@ -269,7 +307,7 @@ var portfolioIsotope = $('.portfolio-container').isotope({
       },
       success: function(data){
         alert('messaggio inviato');
-        
+
 
           $("#sendmessage").addClass("show");
           $("#errormessage").removeClass("show");
@@ -291,9 +329,16 @@ var portfolioIsotope = $('.portfolio-container').isotope({
 
 
 
+
+
+
+
+
+
 $('#allegaButton').click(function(){
   window.open('https://script.google.com/macros/s/AKfycbyx2lFsAoAi9GfGsN1WvtWlz_PJYtGe3mwBM17_roF8rHw5CZ0/exec');
   $('#allegaButton').addClass('hide');
   $('#textAllega').removeClass('hide');
   });
+
 
