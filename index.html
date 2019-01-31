@@ -76,7 +76,7 @@
             </ul>
 
           <li><a href="#portfolio">Foto</a></li>
-          <li><a href="https://www.aluplast.net/it/produkte/fenster/farb-konfigurator/">Colorazioni</a></li>
+          <li><a href="colorazioni.html">Colorazioni</a></li>
          
           <li class="menu-has-children"><a href="">Punti vendita</a>
             <ul>
@@ -186,7 +186,7 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
           </div>
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
            <h4 class="title"><a href="portoni.html">Portoni e Portoni Blindati</a></h4>
-            <div class="box" style="background: url(img/prodotti/portoni.png);">
+            <div class="box" style="background: url(img/prodotti/portoni.jpg);">
 <!--               <div class="icon"><a href=""><i class="fa fa-bar-chart"></i></a></div>
  -->             
               <p class="description"></p>
@@ -202,7 +202,7 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
           </div>
 
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-          <h4 class="title"><a href="speciali.html">Scorrevoli, bilici e archi</a></h4>  
+          <h4 class="title"><a href="speciali.html">Scorrevoli e Bilici</a></h4>
             <div class="box" style="background: url(img/prodotti/scorrevoli.png)">
 <!--               <div class="icon"><a href=""><i class="fa fa-photo"></i></a></div>
  -->              
@@ -480,27 +480,32 @@ I nostri impianti sono tra i più avanzati e automatizzati,  le nostre tecnologi
               <div id="errormessage">Errore, messaggio non inviato</div>
               <form action="" method="post" role="form" class="contactForm" >
                 <div class="form-group ">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nome e Cognome / ragione sociale" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="name" class="form-control" id="name"
+                         placeholder="Nome e Cognome / ragione sociale" data-rule="minlen:3"
+                         data-msg="minimo 3 caratteri" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="La tua Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="email" class="form-control" name="email" id="email" placeholder="La tua Email"
+                         data-rule="email" data-msg="inserire una email valida" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group ">
-                  <input type="text" name="telefono" class="form-control" id="subject" placeholder="Telefono" data-rule="minlen:4" data-msg="Please enter a valid number" />
+                  <input type="text" name="telefono" class="form-control" id="subject" placeholder="Telefono"
+                         data-rule="minlen:5" data-msg="inserire un numero valido" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group ">
-                  <input type="text" name="luogo" class="form-control" id="luogo" placeholder="Luogo di consegna" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="luogo" class="form-control" id="luogo" placeholder="Luogo di consegna" data-rule="minlen:4" data-msg="minimo 3 caratteri" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
                   <button id="allegaButton" type="button" >Allega file</button>
-                  <p class="hide" id="textAllega">Hai allegato un con file la nostra applicazione</p>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Messaggio"></textarea>
+                  <textarea class="form-control" name="message" rows="5" data-rule="required"
+                            data-msg="inserisci un messaggio"
+                            placeholder="Messaggio"></textarea>
                   <div class="validation"></div>
                 </div>
 

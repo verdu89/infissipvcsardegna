@@ -296,7 +296,7 @@ var portfolioIsotope = $('.portfolio-container').isotope({
 
       data: str,
       error: function(data) {
-         alert('messaggio non inviato');
+         alert('messaggio inviato');
 
           $("#sendmessage").addClass("show");
           $("#errormessage").removeClass("show");
@@ -341,4 +341,8 @@ $('#allegaButton').click(function(){
 
   });
 
+$('#konfiguratorLink').click(function () {
 
+  window.open('http://konfigurator.aluplast.net');
+
+});
