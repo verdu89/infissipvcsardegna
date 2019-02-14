@@ -331,6 +331,9 @@ var portfolioIsotope = $('.portfolio-container').isotope({
 
 
 
+
+
+
 $('#allegaButton').click(function(){
   window.open('https://script.google.com/macros/s/AKfycbyx2lFsAoAi9GfGsN1WvtWlz_PJYtGe3mwBM17_roF8rHw5CZ0/exec');
   $('#allegaButton').addClass('hide');
@@ -342,3 +345,33 @@ $('#konfiguratorLink').click(function () {
   window.open('http://konfigurator.aluplast.net');
 
 });
+
+
+
+
+$('#manutenzioneActionButton').click(function () {
+
+  $('section#contact').removeClass('hide');
+
+
+
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
