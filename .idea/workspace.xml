@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accessori.html" beforeDir="false" afterPath="$PROJECT_DIR$/accessori.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prodotti/portoni.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/prodotti/portoni.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prodotti/zanza.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/prodotti/zanza.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manutenzione.html" beforeDir="false" afterPath="$PROJECT_DIR$/manutenzione.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,7 +18,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -48,6 +61,7 @@
       <find>form</find>
       <find>contact</find>
       <find>addClass</find>
+      <find>cap</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -56,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/accessori.html" />
         <option value="$PROJECT_DIR$/cookiepolicy.html" />
         <option value="$PROJECT_DIR$/finestrePVC.html" />
         <option value="$PROJECT_DIR$/infissiCagliari.html" />
@@ -73,6 +86,7 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/js/manutenzione.js" />
         <option value="$PROJECT_DIR$/manutenzione.html" />
+        <option value="$PROJECT_DIR$/accessori.html" />
       </list>
     </option>
   </component>
@@ -87,23 +101,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="infissipvcsardegna.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="infissipvcsardegna.com" type="462c0819:PsiDirectoryNode" />
+              <item name="www.infissipvcsardegna.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.infissipvcsardegna.com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="infissipvcsardegna.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="infissipvcsardegna.com" type="462c0819:PsiDirectoryNode" />
+              <item name="www.infissipvcsardegna.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.infissipvcsardegna.com" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,15 +159,18 @@
       <workItem from="1549302374192" duration="24000" />
       <workItem from="1549646330433" duration="2256000" />
       <workItem from="1549789564615" duration="2698000" />
-      <workItem from="1550154878314" duration="813000" />
+      <workItem from="1550154878314" duration="1546000" />
+      <workItem from="1550162199572" duration="1726000" />
+      <workItem from="1550167913599" duration="1605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61992000" />
+    <option name="totallyTimeSpent" value="66056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -207,13 +224,6 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accessori.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -298,19 +308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="533" column="33" lean-forward="true" selection-start-line="446" selection-start-column="3" selection-end-line="533" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pagina manutenzione/manutenzione.html" />
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -319,17 +316,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manutenzione.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="117" column="44" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/manutenzione.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="357" column="3" selection-start-line="357" selection-start-column="3" selection-end-line="357" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manutenzione.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accessori.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="119" column="46" selection-start-line="119" selection-start-column="46" selection-end-line="119" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
