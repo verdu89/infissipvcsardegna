@@ -3,21 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accessori.html" beforeDir="false" afterPath="$PROJECT_DIR$/accessori.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colorazioni.html" beforeDir="false" afterPath="$PROJECT_DIR$/colorazioni.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookiepolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookiepolicy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finestrePVC.html" beforeDir="false" afterPath="$PROJECT_DIR$/finestrePVC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prodotti/ideal5000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/prodotti/ideal5000.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infissiCagliari.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiCagliari.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infissiNuoro.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiNuoro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infissiSassari.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiSassari.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/persiane.html" beforeDir="false" afterPath="$PROJECT_DIR$/persiane.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portoni.html" beforeDir="false" afterPath="$PROJECT_DIR$/portoni.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posa.html" beforeDir="false" afterPath="$PROJECT_DIR$/posa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speciali.html" beforeDir="false" afterPath="$PROJECT_DIR$/speciali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stabilimento.html" beforeDir="false" afterPath="$PROJECT_DIR$/stabilimento.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,16 +18,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="131" column="37" lean-forward="true" selection-start-line="131" selection-start-column="37" selection-end-line="131" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ww</find>
-      <find>colorazi</find>
-      <find>colora</find>
-      <find>colorazio</find>
-      <find>coloraz</find>
-      <find>posa</find>
       <find>zanza</find>
       <find>scorrevoli</find>
       <find>finestre</find>
@@ -63,6 +56,12 @@
       <find>cagliari</find>
       <find>accept cookies and</find>
       <find>accept</find>
+      <find>btn-get-started</find>
+      <find>.close</find>
+      <find>video</find>
+      <find>modal-open</find>
+      <find>.modal</find>
+      <find>modal</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,7 +73,6 @@
         <option value="$PROJECT_DIR$/pagina manutenzione/manutenzione.html" />
         <option value="$PROJECT_DIR$/js/manutenzione.js" />
         <option value="$PROJECT_DIR$/manutenzione.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/infissiNuoro.html" />
         <option value="$PROJECT_DIR$/infissiCagliari.html" />
         <option value="$PROJECT_DIR$/infissiSassari.html" />
@@ -87,12 +85,13 @@
         <option value="$PROJECT_DIR$/cookiepolicy.html" />
         <option value="$PROJECT_DIR$/accessori.html" />
         <option value="$PROJECT_DIR$/colorazioni.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="41" />
     <option name="y" value="88" />
     <option name="width" value="653" />
@@ -184,15 +183,19 @@
       <workItem from="1550867443864" duration="378000" />
       <workItem from="1550869237789" duration="452000" />
       <workItem from="1550957005650" duration="280000" />
-      <workItem from="1551111401341" duration="866000" />
+      <workItem from="1551111401341" duration="1485000" />
+      <workItem from="1551114556599" duration="19000" />
+      <workItem from="1552378690678" duration="11124000" />
+      <workItem from="1552395371859" duration="1232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100078000" />
+    <option name="totallyTimeSpent" value="113072000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="25" width="1325" height="743" extended-state="7" />
+    <frame x="41" y="25" width="1325" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -212,25 +215,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961598" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -363,38 +347,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.ihavecookies.js">
+    <entry file="file://$PROJECT_DIR$/js/jquery.ihavecookies.js" />
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2440">
-          <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="338" column="30" selection-start-line="338" selection-start-column="30" selection-end-line="338" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="177">
+          <caret line="5396" column="6" selection-start-line="5396" selection-end-line="5396" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1147" column="15" selection-start-line="1147" selection-start-column="15" selection-end-line="1147" selection-end-column="15" />
+        <state relative-caret-position="460">
+          <caret line="1255" column="39" lean-forward="true" selection-start-line="1255" selection-start-column="39" selection-end-line="1255" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="363" lean-forward="true" selection-start-line="363" selection-end-line="363" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        <state relative-caret-position="296">
+          <caret line="131" column="37" lean-forward="true" selection-start-line="131" selection-start-column="37" selection-end-line="131" selection-end-column="37" />
         </state>
       </provider>
     </entry>
