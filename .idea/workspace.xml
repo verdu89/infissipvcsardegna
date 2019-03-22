@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/prodotti/ideal5000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/prodotti/ideal5000.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infissiSassari.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiSassari.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,12 +16,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="131" column="37" lean-forward="true" selection-start-line="131" selection-start-column="37" selection-end-line="131" selection-end-column="37" />
+            <state relative-caret-position="228">
+              <caret line="417" column="56" selection-start-line="417" selection-start-column="56" selection-end-line="417" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#h6#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#a#0;n#div#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,14 +38,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>zanza</find>
-      <find>scorrevoli</find>
-      <find>finestre</find>
-      <find>form</find>
-      <find>contact</find>
-      <find>addClass</find>
-      <find>cap</find>
-      <find>zanzariere</find>
       <find>zanzariera</find>
       <find>cassone</find>
       <find>tti</find>
@@ -58,10 +56,18 @@
       <find>accept</find>
       <find>btn-get-started</find>
       <find>.close</find>
-      <find>video</find>
       <find>modal-open</find>
       <find>.modal</find>
       <find>modal</find>
+      <find>produttori dal</find>
+      <find>fade</find>
+      <find>aziend</find>
+      <find>coloraa</find>
+      <find>you</find>
+      <find>portfoli</find>
+      <find>video</find>
+      <find>youtu</find>
+      <find>youtube</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -75,7 +81,6 @@
         <option value="$PROJECT_DIR$/manutenzione.html" />
         <option value="$PROJECT_DIR$/infissiNuoro.html" />
         <option value="$PROJECT_DIR$/infissiCagliari.html" />
-        <option value="$PROJECT_DIR$/infissiSassari.html" />
         <option value="$PROJECT_DIR$/persiane.html" />
         <option value="$PROJECT_DIR$/portoni.html" />
         <option value="$PROJECT_DIR$/posa.html" />
@@ -86,8 +91,9 @@
         <option value="$PROJECT_DIR$/accessori.html" />
         <option value="$PROJECT_DIR$/colorazioni.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/infissiSassari.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -102,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,16 +121,10 @@
               <item name="infissipvcsardegna.com" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="infissipvcsardegna.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="infissipvcsardegna.com" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,12 +187,16 @@
       <workItem from="1551111401341" duration="1485000" />
       <workItem from="1551114556599" duration="19000" />
       <workItem from="1552378690678" duration="11124000" />
-      <workItem from="1552395371859" duration="1232000" />
+      <workItem from="1552395371859" duration="2901000" />
+      <workItem from="1552417454564" duration="3069000" />
+      <workItem from="1553023168381" duration="4077000" />
+      <workItem from="1553027785992" duration="2201000" />
+      <workItem from="1553247503882" duration="2820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113072000" />
+    <option name="totallyTimeSpent" value="126908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
@@ -257,13 +262,6 @@
     <entry file="file://$PROJECT_DIR$/infissiCagliari.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
-          <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infissiSassari.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
           <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
         </state>
       </provider>
@@ -355,13 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="1255" column="39" lean-forward="true" selection-start-line="1255" selection-start-column="39" selection-end-line="1255" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -372,10 +363,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="1255" column="39" selection-start-line="1255" selection-start-column="39" selection-end-line="1255" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infissiSassari.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="131" column="37" lean-forward="true" selection-start-line="131" selection-start-column="37" selection-end-line="131" selection-end-column="37" />
+        <state relative-caret-position="228">
+          <caret line="417" column="56" selection-start-line="417" selection-start-column="56" selection-end-line="417" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#h6#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#div#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
