@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="" />
+    <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/accessori.html" beforeDir="false" afterPath="$PROJECT_DIR$/accessori.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorazioni.html" beforeDir="false" afterPath="$PROJECT_DIR$/colorazioni.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookiepolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookiepolicy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finestrePVC.html" beforeDir="false" afterPath="$PROJECT_DIR$/finestrePVC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infissiCagliari.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiCagliari.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infissiNuoro.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiNuoro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infissiSassariChiusa.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiSassariChiusa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persiane.html" beforeDir="false" afterPath="$PROJECT_DIR$/persiane.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portoni.html" beforeDir="false" afterPath="$PROJECT_DIR$/portoni.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posa.html" beforeDir="false" afterPath="$PROJECT_DIR$/posa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speciali.html" beforeDir="false" afterPath="$PROJECT_DIR$/speciali.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stabilimento.html" beforeDir="false" afterPath="$PROJECT_DIR$/stabilimento.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,11 +26,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="96" column="15" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="96" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#h6#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#a#0;n#div#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>zanzariera</find>
       <find>cassone</find>
       <find>tti</find>
       <find>cassonetti</find>
@@ -46,6 +76,7 @@
       <find>video</find>
       <find>youtu</find>
       <find>youtube</find>
+      <find>azienda</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,23 +88,24 @@
         <option value="$PROJECT_DIR$/pagina manutenzione/manutenzione.html" />
         <option value="$PROJECT_DIR$/js/manutenzione.js" />
         <option value="$PROJECT_DIR$/manutenzione.html" />
-        <option value="$PROJECT_DIR$/infissiNuoro.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/infissiSassari.html" />
         <option value="$USER_HOME$/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/percheProduttori.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/finestrePVC.html" />
+        <option value="$PROJECT_DIR$/infissiCagliari.html" />
+        <option value="$PROJECT_DIR$/accessori.html" />
+        <option value="$PROJECT_DIR$/colorazioni.html" />
+        <option value="$PROJECT_DIR$/cookiepolicy.html" />
+        <option value="$PROJECT_DIR$/infissiNuoro.html" />
+        <option value="$PROJECT_DIR$/infissiSassariChiusa.html" />
         <option value="$PROJECT_DIR$/persiane.html" />
         <option value="$PROJECT_DIR$/portoni.html" />
         <option value="$PROJECT_DIR$/posa.html" />
         <option value="$PROJECT_DIR$/speciali.html" />
         <option value="$PROJECT_DIR$/stabilimento.html" />
-        <option value="$PROJECT_DIR$/accessori.html" />
-        <option value="$PROJECT_DIR$/colorazioni.html" />
-        <option value="$PROJECT_DIR$/cookiepolicy.html" />
-        <option value="$PROJECT_DIR$/finestrePVC.html" />
-        <option value="$PROJECT_DIR$/infissiCagliari.html" />
       </list>
     </option>
   </component>
@@ -88,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,6 +141,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,14 +217,16 @@
       <workItem from="1555516721588" duration="24000" />
       <workItem from="1559547897035" duration="797000" />
       <workItem from="1559551193247" duration="3400000" />
+      <workItem from="1560364744277" duration="2043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137013000" />
+    <option name="totallyTimeSpent" value="139056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="25" width="1325" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -222,14 +256,7 @@
         <state relative-caret-position="-1033" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/pagina manutenzione/manutenzione.html" />
     <entry file="file://$PROJECT_DIR$/js/manutenzione.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -242,13 +269,6 @@
     <entry file="file://$PROJECT_DIR$/js/privacy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4297" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infissiNuoro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manutenzione.html">
@@ -273,13 +293,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infissiSassari.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/infissiSassari.html" />
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1527">
@@ -291,57 +305,11 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/index.html" />
-    <entry file="file://$PROJECT_DIR$/persiane.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="58" column="26" selection-start-line="55" selection-start-column="12" selection-end-line="58" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portoni.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/speciali.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stabilimento.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accessori.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/percheProduttori.html" />
     <entry file="file://$PROJECT_DIR$/colorazioni.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        <state relative-caret-position="120">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -351,36 +319,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cookiepolicy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        <state relative-caret-position="58">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/finestrePVC.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/percheProduttori.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        <state relative-caret-position="161">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infissiCagliari.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        <state relative-caret-position="57">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infissiNuoro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infissiSassariChiusa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persiane.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portoni.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speciali.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stabilimento.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accessori.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="584" column="19" selection-start-line="584" selection-start-column="19" selection-end-line="584" selection-end-column="19" />
+        <state relative-caret-position="252">
+          <caret line="96" column="15" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="96" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#h6#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
