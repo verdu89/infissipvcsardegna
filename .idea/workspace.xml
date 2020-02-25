@@ -3,45 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>cassone</find>
-      <find>tti</find>
-      <find>cassonetti</find>
-      <find>cassonet</find>
-      <find>casson</find>
-      <find>avvol</find>
-      <find>bilic</find>
-      <find>nuovo</find>
-      <find>#po</find>
-      <find>colorazioni</find>
-      <find>PRODO</find>
-      <find>cagli</find>
-      <find>cagliari</find>
-      <find>accept cookies and</find>
-      <find>accept</find>
-      <find>btn-get-started</find>
-      <find>.close</find>
-      <find>modal-open</find>
-      <find>.modal</find>
-      <find>modal</find>
-      <find>produttori dal</find>
-      <find>fade</find>
-      <find>aziend</find>
-      <find>coloraa</find>
-      <find>you</find>
-      <find>portfoli</find>
-      <find>video</find>
-      <find>youtu</find>
-      <find>youtube</find>
-      <find>vetra</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +20,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -118,7 +86,8 @@
       <workItem from="1563349334306" duration="3851000" />
       <workItem from="1563429120532" duration="391000" />
       <workItem from="1563440943211" duration="811000" />
-      <workItem from="1582583030813" duration="550000" />
+      <workItem from="1582583030813" duration="1174000" />
+      <workItem from="1582656988065" duration="2178000" />
     </task>
     <servers />
   </component>
