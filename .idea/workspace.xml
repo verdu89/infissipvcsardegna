@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylelandingpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylelandingpage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingpage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage2.html" afterDir="false" />
     </list>
@@ -88,11 +90,17 @@
       <workItem from="1563440943211" duration="811000" />
       <workItem from="1582583030813" duration="1174000" />
       <workItem from="1582656988065" duration="2674000" />
-      <workItem from="1582728193822" duration="2000000" />
+      <workItem from="1582728193822" duration="10012000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582742421317">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/41.27.1325.741@41.27.1325.741" timestamp="1582742421317" />
   </component>
 </project>
