@@ -1,5 +1,7 @@
 jQuery(document).ready(function( $ ) {
 
+  $('#myModalAnnounce').modal('show');
+
   // Header fixed and Back to top button
   $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {
