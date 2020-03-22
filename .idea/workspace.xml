@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylelandingpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylelandingpage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/landingPages.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/landingPages.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingpage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage2.html" afterDir="false" />
     </list>
@@ -11,6 +12,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="infissipvcsardegna.com" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../viverna-site" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -100,7 +104,7 @@
       <workItem from="1584792506912" duration="9690000" />
       <workItem from="1584803278471" duration="3382000" />
       <workItem from="1584813287710" duration="5608000" />
-      <workItem from="1584882391519" duration="5275000" />
+      <workItem from="1584882391519" duration="21588000" />
     </task>
     <servers />
   </component>
@@ -108,18 +112,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583254924342">
+    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584894728794">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl/41.27.1325.741@41.27.1325.741" timestamp="1583254924342" />
-    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582742421317">
+    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl/41.27.1325.741@41.27.1325.741" timestamp="1584894728794" />
+    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584894977851">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/41.27.1325.741@41.27.1325.741" timestamp="1582742421317" />
-    <state x="367" y="175" key="run.anything.popup" timestamp="1584884241131">
+    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/41.27.1325.741@41.27.1325.741" timestamp="1584894977851" />
+    <state x="352" y="115" width="700" height="530" key="recent.locations.popup" timestamp="1584894355210">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="367" y="175" key="run.anything.popup/41.27.1325.741@41.27.1325.741" timestamp="1584884241131" />
+    <state x="352" y="115" width="700" height="530" key="recent.locations.popup/41.27.1325.741@41.27.1325.741" timestamp="1584894355209" />
+    <state x="367" y="175" width="672" height="677" key="run.anything.popup" timestamp="1584906553765">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="367" y="175" width="672" height="677" key="run.anything.popup/41.27.1325.741@41.27.1325.741" timestamp="1584906553765" />
     <state x="366" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584797815430">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
