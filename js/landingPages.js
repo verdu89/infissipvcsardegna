@@ -1,5 +1,6 @@
 jQuery(document).ready(function( $ ) {
 
+  // Lanciatore modal Annuncio Coronavirus
   $('#myModalAnnounce').modal('show');
 
   // Header fixed and Back to top button
@@ -97,23 +98,7 @@ jQuery(document).ready(function( $ ) {
     }
   });
 
-  // Porfolio filter
-  // $("#portfolio-flters li").click ( function() {
-  //   $("#portfolio-flters li").removeClass('filter-active');
-  //   $(this).addClass('filter-active');
-
-  //   var selectedFilter = $(this).data("filter");
-  //   $("#portfolio-wrapper").fadeTo(100, 0);
-
-  //   $(".portfolio-item").fadeOut().css('transform', 'scale(0)');
-
-  //   setTimeout(function() {
-  //     $(selectedFilter).fadeIn(100).css('transform', 'scale(1)');
-  //     $("#portfolio-wrapper").fadeTo(300, 1);
-  //   }, 300);
-  // });
-
-  var portfolioIsotope = $('.portfolio-container').isotope({
+    var portfolioIsotope = $('.portfolio-container').isotope({
     itemSelector: '.portfolio-item',
     layoutMode: 'fitRows'
   });
@@ -165,10 +150,10 @@ jQuery(document).ready(function( $ ) {
 
 });
 
- function doSubmit() {
+function doSubmit() {
 
-   var scriptUrl = "https://script.google.com/macros/s/AKfycbwM15iypGZqvE3682f22dZnmtY6G-qgo4baQj2bVu5TfrsTn6lj/exec";
-   var formData = {
+   let scriptUrl = "https://script.google.com/macros/s/AKfycbwM15iypGZqvE3682f22dZnmtY6G-qgo4baQj2bVu5TfrsTn6lj/exec";
+   let formData = {
      name: $('#name').val(),
      email: $('#email').val(),
      phone: $('#phone').val(),
@@ -189,21 +174,21 @@ jQuery(document).ready(function( $ ) {
 
    });
 
-   function setThanksButton() {
-     var button = $('#sendMessageButton');
-     button.removeClass('.block');
-     button.addClass('blockSuccess');
-     button.text('Messaggio inviato');
-     $(window.alert('Messaggio inviato correttamente'));
-     $('#name').val('') ;
-     $('#email').val('');
-     $('#phone').val('');
-     $('#message').val('');
-     $('#checkboxForm').prop('checked', false);
    }
 
+function setThanksButton() {
+  let button = $('#sendMessageButton');
+  button.removeClass('.block');
+  button.addClass('blockSuccess');
+  button.text('Messaggio inviato');
+  $(window.alert('Messaggio inviato correttamente'));
+  $('#name').val('') ;
+  $('#email').val('');
+  $('#phone').val('');
+  $('#message').val('');
+  $('#checkboxForm').prop('checked', false);
+}
 
- }
 
 $('#allegaButton').click(function(){
   window.open('https://script.google.com/macros/s/AKfycbyx2lFsAoAi9GfGsN1WvtWlz_PJYtGe3mwBM17_roF8rHw5CZ0/exec');

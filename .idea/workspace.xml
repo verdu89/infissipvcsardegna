@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylelandingpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylelandingpage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/landingPages.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/landingPages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landingpage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,18 +104,34 @@
       <workItem from="1584792506912" duration="9690000" />
       <workItem from="1584803278471" duration="3382000" />
       <workItem from="1584813287710" duration="5608000" />
-      <workItem from="1584882391519" duration="21588000" />
+      <workItem from="1584882391519" duration="22796000" />
+      <workItem from="1584910414550" duration="863000" />
+      <workItem from="1584911295688" duration="341000" />
+      <workItem from="1584911710930" duration="9722000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584894728794">
+    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584915405091">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl/41.27.1325.741@41.27.1325.741" timestamp="1584894728794" />
+    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl/41.27.1325.741@41.27.1325.741" timestamp="1584915405091" />
     <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584894977851">
       <screen x="41" y="27" width="1325" height="741" />
     </state>

@@ -952,7 +952,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
 }
 
-#contact .form button[type="submit"] {
+#contact .form button[type="button"] {
   background: #f5c040;
   border: 0;
   padding: 10px 24px;
@@ -960,9 +960,52 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: 0.4s;
 }
 
-#contact .form button[type="submit"]:hover {
-  background: #51d8ad;
+#contact .form button[type="button"]:hover {
+  background: #dd942c;
 }
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #f5c040;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.block:hover {
+  background-color: #dd942c;
+  color: white;
+}
+.blockSuccess {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #0bf511;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.blockSuccess:hover {
+  background-color: rgba(64, 245, 70, 0.77);
+  color: #dddddd;
+}
+
+
+@media (max-width: 768px) {
+  .block {
+    margin-bottom: 20px;
+  }
+  .blockSuccess {
+    margin-bottom: 20px;
+  }
+}
+
 
 /*--------------------------------------------------------------
 # Footer

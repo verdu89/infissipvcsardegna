@@ -97,8 +97,23 @@ jQuery(document).ready(function( $ ) {
     }
   });
 
+  // Porfolio filter
+  // $("#portfolio-flters li").click ( function() {
+  //   $("#portfolio-flters li").removeClass('filter-active');
+  //   $(this).addClass('filter-active');
 
-  var portfolioIsotope = $('.portfolio-container').isotope({
+  //   var selectedFilter = $(this).data("filter");
+  //   $("#portfolio-wrapper").fadeTo(100, 0);
+
+  //   $(".portfolio-item").fadeOut().css('transform', 'scale(0)');
+
+  //   setTimeout(function() {
+  //     $(selectedFilter).fadeIn(100).css('transform', 'scale(1)');
+  //     $("#portfolio-wrapper").fadeTo(300, 1);
+  //   }, 300);
+  // });
+
+var portfolioIsotope = $('.portfolio-container').isotope({
     itemSelector: '.portfolio-item',
     layoutMode: 'fitRows'
   });
@@ -148,85 +163,184 @@ jQuery(document).ready(function( $ ) {
     google.maps.event.addDomListener(window, 'load', initialize_google_map);
   }
 
-});
+// custom code
 
-// Custum code
+//Contact
+  $('form.contactForm').submit(function() {
+
+    var f = $(this).find('.form-group'),
+      ferror = false,
+      emailExp = /^[^\s()<>@,;:\/]+@\w[\w\.-]+\.[a-z]{2,}$/i;
+
+    f.children('input').each(function() { // run all inputs
+
+      var i = $(this); // current input
+      var rule = i.attr('data-rule');
+
+      if (rule !== undefined) {
+        var ierror = false; // error flag for current input
+        var pos = rule.indexOf(':', 0);
+        if (pos >= 0) {
+          var exp = rule.substr(pos + 1, rule.length);
+          rule = rule.substr(0, pos);
+        } else {
+          rule = rule.substr(pos + 1, rule.length);
+        }
+
+        switch (rule) {
+          case 'required':
+            if (i.val() === '') {
+              ferror = ierror = true;
+            }
+            break;
+
+          case 'minlen':
+            if (i.val().length < parseInt(exp)) {
+              ferror = ierror = true;
+            }
+            break;
+
+          case 'email':
+            if (!emailExp.test(i.val())) {
+              ferror = ierror = true;
+            }
+            break;
+
+          case 'checked':
+            if (! i.is(':checked')) {
+              ferror = ierror = true;
+            }
+            break;
+
+          case 'regexp':
+            exp = new RegExp(exp);
+            if (!exp.test(i.val())) {
+              ferror = ierror = true;
+            }
+            break;
 
 
-function doSubmit() {
 
-  let scriptUrl = "https://script.google.com/macros/s/AKfycbz-XnpWOP1-v2cosUGetAKXOghnP0EocCVQXy-7zA/exec";
-  let formData = {
-    name: $('#name').val(),
-    email: $('#email').val(),
-    phone: $('#phone').val(),
-    place: $('#place').val(),
-    message: $('#message').val(),
-    probaleAttachedFile: isFileAttached()
-  };
+        }
+        i.next('.validation').html((ierror ? (i.attr('data-msg') !== undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
+      }
+    });
+    f.children('textarea').each(function() { // run all inputs
 
-  $.ajax({
-    type: "POST",
-    url: scriptUrl,
-    data: formData,
-    crossDomain: true,
-    error: function (data) {
-      setThanksButton();
-    },
-    success: function (data) {
-      setThanksButton();
-    }
+      var i = $(this); // current input
+      var rule = i.attr('data-rule');
 
+      if (rule !== undefined) {
+        var ierror = false; // error flag for current input
+        var pos = rule.indexOf(':', 0);
+        if (pos >= 0) {
+          var exp = rule.substr(pos + 1, rule.length);
+          rule = rule.substr(0, pos);
+        } else {
+          rule = rule.substr(pos + 1, rule.length);
+        }
+
+        switch (rule) {
+          case 'required':
+            if (i.val() === '') {
+              ferror = ierror = true;
+            }
+            break;
+
+          case 'minlen':
+            if (i.val().length < parseInt(exp)) {
+              ferror = ierror = true;
+            }
+            break;
+        }
+        i.next('.validation').html((ierror ? (i.attr('data-msg') != undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
+      }
+    });
+    f.children('div').each(function() { // run all inputs
+
+      var i = $(this); // current input
+      var rule = i.attr('data-rule');
+
+      if (rule !== undefined) {
+        var ierror = false; // error flag for current input
+        var pos = rule.indexOf(':', 0);
+        if (pos >= 0) {
+          var exp = rule.substr(pos + 1, rule.length);
+          rule = rule.substr(0, pos);
+        } else {
+          rule = rule.substr(pos + 1, rule.length);
+        }
+
+        switch (rule) {
+          case 'captcha':
+            if (grecaptcha && grecaptcha.getResponse().length == 0) {
+
+
+              ferror = ierror = true;
+            }
+            break;
+
+          case 'minlen':
+            if (i.val().length < parseInt(exp)) {
+              ferror = ierror = true;
+            }
+            break;
+        }
+        i.next('.validation').html((ierror ? (i.attr('data-msg') != undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
+      }
+
+    });
+    if (ferror) return false;
+    else var str = $(this).serialize();
+    $.ajax({
+      type: "POST",
+      url: "https://script.google.com/macros/s/AKfycbz-XnpWOP1-v2cosUGetAKXOghnP0EocCVQXy-7zA/exec",
+
+      data: str,
+      error: function(data) {
+         alert('messaggio inviato');
+
+          $("#sendmessage").addClass("show");
+          $("#errormessage").removeClass("show");
+          $('#allegaButton').removeClass('hide');
+          $('#textAllega').addClass('hide');
+
+
+      },
+      success: function(data){
+        alert('messaggio inviato');
+
+
+          $("#sendmessage").addClass("show");
+          $("#errormessage").removeClass("show");
+          $('#allegaButton').removeClass('hide');
+          $('#textAllega').addClass('hide');
+
+
+      }
+    });
+    $('.contactForm').find("input, textarea").val("");
+    return false;
   });
 
 
 
-}
+ 
 
 
-function isFileAttached() {
-  let result = "Il cliente non ha allegato il file"
-  let toBeAnalized = $('#allegaButton');
-  if (toBeAnalized.hasClass('hide')){
-    result = "Il cliente probabilemente ha allegato un file";
-  }
-
-  return result
-}
-
-function setThanksButton() {
-  let button = $('#sendMessageButton');
-  button.removeClass('.block');
-  button.addClass('blockSuccess');
-  button.text('Messaggio inviato');
-  $(window.alert('Messaggio inviato correttamente'));
-  $('#name').val('') ;
-  $('#email').val('');
-  $('#phone').val('');
-  $('#message').val('');
-  $('#place').val('');
-  $('#checkboxForm').prop('checked', false);
-
-}
-
-
-
-
-
-
+});
 
 $("#myModal").on('hidden.bs.modal', function (e) {
   $("#myModal iframe").attr("src", $("#myModal iframe").attr("src"));
 });
 
+
+
 $('#allegaButton').click(function(){
   window.open('https://script.google.com/macros/s/AKfycbyx2lFsAoAi9GfGsN1WvtWlz_PJYtGe3mwBM17_roF8rHw5CZ0/exec');
-
   $('#allegaButton').addClass('hide');
 
-
   });
-
 
 $('#konfiguratorLink').click(function () {
 
