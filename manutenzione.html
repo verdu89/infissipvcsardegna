@@ -27,14 +27,7 @@
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
-  <script src='https://www.google.com/recaptcha/api.js'></script>
 
-  <!-- =======================================================
-    Theme Name: Regna
-    Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
 </head>
 
 <body>
@@ -85,20 +78,7 @@
               
         </div>
     </div>
-    
 
-      
-
-
-                      
-
-                   
-       
-
-              
-              
-
-             
        
      
 
@@ -128,88 +108,94 @@
   <!--==========================
      Contact Section
    ============================-->
-  <section id="contact" class="hide" >
-    <div class="container wow fadeInUp ">
+  <!-- Modal Allega File -->
+  <div class="modal fade" id="modalAttachFile" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title"><img src="img/logo.png" alt="" title="" ></h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+
+          <style>.forms-studio{position:relative;padding-bottom:56.25%;overflow:hidden;width:100%;height:600px;}.forms-studio iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0;}</style><div class='forms-studio'><iframe src='https://script.google.com/macros/s/AKfycbwF2XUgvSZJbCqKa5oxdIl-lAURbvm5882hWwvhy0Oo47oy6_0h/exec'></iframe></div>
+
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+
+
+  <section id="contact" class="hide">
+
+    <div class="container wow fadeInUp">
       <div class="section-header">
-        <h3 class="section-title">richiesta preventivo </h3>
+        <h3 class="section-title">Rchiesta preventivo </h3>
         <p class="section-description">Hai bisogno di un preventivo? compila il form sottostante verrai ricontattato entro 48h da un nostro tecnico specializzato</p>
       </div>
     </div>
-
-    <!-- Uncomment below if you wan to use dynamic maps -->
-    <!--<div id="google-map" data-latitude="40.713732" data-longitude="-74.0092704"></div>-->
-
 
 
     <div class="container wow fadeInUp">
       <div class="row justify-content-center">
 
 
-
-        <!-- <div class="social-links">
-          <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-          <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-          <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-          <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
-        </div> -->
-
-
         <div class=" col-lg-6 col-md-8">
           <div class="form">
-            <div id="sendmessage"><span style="color: green" class="fa fa-lg fa-check"></span>  Il tuo messaggio è stato correttamente inviato, grazie di averci contattato</div>
-            <div id="errormessage">Errore, messaggio non inviato</div>
-            <form action="" method="post" role="form" class="contactForm" >
+            <form role="form" class="contactForm" onsubmit="doSubmit(); return false;" >
               <div class="form-group ">
-                <input type="text" name="name" class="form-control" id="name"
-                       placeholder="Nome e Cognome / ragione sociale" data-rule="minlen:3"
-                       data-msg="minimo 3 caratteri" />
+                <input id="name" type="text"  class="form-control" placeholder="Nome e Cognome / ragione sociale" required />
                 <div class="validation"></div>
               </div>
               <div class="form-group">
-                <input type="email" class="form-control" name="email" id="email" placeholder="La tua Email"
-                       data-rule="email" data-msg="inserire una email valida" />
+                <input id="email" type="email" class="form-control" placeholder="La tua Email"
+                       required/>
                 <div class="validation"></div>
               </div>
               <div class="form-group ">
-                <input type="text" name="telefono" class="form-control" id="subject" placeholder="Telefono"
-                       data-rule="minlen:5" data-msg="inserire un numero valido" />
+                <input id="phone" type="tel"  class="form-control" placeholder="Telefono"
+                       required/>
                 <div class="validation"></div>
               </div>
               <div class="form-group ">
-                <input type="text" name="luogo" class="form-control" id="luogo" placeholder="Luogo di consegna" data-rule="minlen:4" data-msg="minimo 3 caratteri" />
+                <input type="text"  class="form-control" id="place" placeholder="Luogo di consegna" required />
                 <div class="validation"></div>
               </div>
               <div class="form-group">
-                <button id="allegaButton" type="button" >Allega file</button>
-              </div>
-              <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required"
-                            data-msg="inserisci un messaggio"
-                            placeholder="Messaggio"></textarea>
+                  <textarea id="message" class="form-control" rows="5"
+                            placeholder="Messaggio" required></textarea>
                 <div class="validation"></div>
               </div>
+              <div class="form-group">
 
-              <div id="captcha" class="form-group">
-                <div class=" g-recaptcha"
-                     data-rule="captcha"
-                     data-msg="completa il captcha"
-                     data-callback="recaptchaCallback"
-                     data-sitekey="6Le4vIsUAAAAAGF95wXTjU1drT3GVR-tSkT-zhj5">
-                </div>
-                <div class="validation"></div>
+                <button id="allegaButton" type="button">Allega un file</button>
 
+              </div>
+              <div class="form-group col-lg-12 ">
+                <input id="checkboxForm" type="checkbox" required/>
+                <span class="col-lg-11" >Ho letto l' <a href="cookiepolicy.html">informativa </a> e autorizzo il trattamento dei miei dati personali per le finalità ivi indicate. </span>
+                <div class="validation"></div>
 
               </div>
 
               <div class="text-center">
-                <button type="submit">Send Message</button>
+                <button type="submit" id="sendMessageButton" class="block" >Spedisci</button>
               </div>
             </form>
           </div>
         </div>
-      </div>
 
+
+      </div>
+    </div>
 
 
   </section> <!-- #contact -->
