@@ -4,6 +4,9 @@
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salvataggio index con vecchio form 22-03-2020/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salvataggio index con vecchio form 22-03-2020/main - con form js funzionante.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,19 +16,32 @@
   <component name="FavoritesManager">
     <favorites_list name="infissipvcsardegna.com" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YGy3jxcdX1wQmj2N8RXUPt5mWo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../viverna-site" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -106,6 +122,8 @@
       <workItem from="1584911295688" duration="341000" />
       <workItem from="1584911710930" duration="13278000" />
       <workItem from="1584955866363" duration="2395000" />
+      <workItem from="1585046422615" duration="52745000" />
+      <workItem from="1585145190441" duration="2422000" />
     </task>
     <servers />
   </component>
@@ -130,21 +148,32 @@
       <screen x="41" y="27" width="1325" height="741" />
     </state>
     <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl/41.27.1325.741@41.27.1325.741" timestamp="1584915405091" />
-    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584894977851">
+    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585087021404">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/41.27.1325.741@41.27.1325.741" timestamp="1584894977851" />
+    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/41.27.1325.741@41.27.1325.741" timestamp="1585087021404" />
     <state x="352" y="115" width="700" height="530" key="recent.locations.popup" timestamp="1584894355210">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
     <state x="352" y="115" width="700" height="530" key="recent.locations.popup/41.27.1325.741@41.27.1325.741" timestamp="1584894355209" />
-    <state x="367" y="175" width="672" height="677" key="run.anything.popup" timestamp="1584906553765">
+    <state x="367" y="175" width="672" height="677" key="run.anything.popup" timestamp="1585099520126">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="367" y="175" width="672" height="677" key="run.anything.popup/41.27.1325.741@41.27.1325.741" timestamp="1584906553765" />
+    <state x="367" y="175" width="672" height="677" key="run.anything.popup/41.27.1325.741@41.27.1325.741" timestamp="1585099520126" />
     <state x="366" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584797815430">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
     <state x="366" y="89" width="672" height="678" key="search.everywhere.popup/41.27.1325.741@41.27.1325.741" timestamp="1584797815430" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

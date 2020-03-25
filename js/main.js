@@ -1,7 +1,5 @@
 jQuery(document).ready(function( $ ) {
 
-  $('#myModalAnnounce').modal('show');
-
   // Header fixed and Back to top button
   $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {
@@ -148,10 +146,34 @@ jQuery(document).ready(function( $ ) {
     google.maps.event.addDomListener(window, 'load', initialize_google_map);
   }
 
+
+  //Custom code
+
+  // Modal Coronavirus (COVID-19)
+  $('#myModalAnnounce').modal('show');
+
+  // Modal Allega File
+  $('#allegaButton').click(function() {
+
+    $('#modalAttachFile').modal('show');
+    $('#allegaButton').addClass('hide');
+
+
+  });
+
+
+  //Modal Youtube
+  $("#myModal").on('hidden.bs.modal', function (e) {
+    $("#myModal iframe").attr("src", $("#myModal iframe").attr("src"));
+  });
+
+
 });
 
 // Custum code
 
+
+ // Post form
 
 function doSubmit() {
 
@@ -162,7 +184,7 @@ function doSubmit() {
     phone: $('#phone').val(),
     place: $('#place').val(),
     message: $('#message').val(),
-    probaleAttachedFile: isFileAttached()
+    attachedFile: isFileAttached()
   };
 
   $.ajax({
@@ -172,26 +194,16 @@ function doSubmit() {
     crossDomain: true,
     error: function (data) {
       setThanksButton();
+
     },
     success: function (data) {
       setThanksButton();
+
+
     }
 
   });
 
-
-
-}
-
-
-function isFileAttached() {
-  let result = "Il cliente non ha allegato il file"
-  let toBeAnalized = $('#allegaButton');
-  if (toBeAnalized.hasClass('hide')){
-    result = "Il cliente probabilemente ha allegato un file";
-  }
-
-  return result
 }
 
 function setThanksButton() {
@@ -205,34 +217,24 @@ function setThanksButton() {
   $('#phone').val('');
   $('#message').val('');
   $('#place').val('');
+  $('#allegaButton').val('');
   $('#checkboxForm').prop('checked', false);
+
 
 }
 
+function isFileAttached() {
 
+  let result = "Non ci sono allegati"
+  let toBeAnalized = $('#allegaButton');
+  if (toBeAnalized.hasClass('hide')){
+    result = "Ci dovrebbero essere allegati, controlla drive "
 
+  }
 
+  return result
+}
 
-
-
-$("#myModal").on('hidden.bs.modal', function (e) {
-  $("#myModal iframe").attr("src", $("#myModal iframe").attr("src"));
-});
-
-$('#allegaButton').click(function(){
-  window.open('https://script.google.com/macros/s/AKfycbyx2lFsAoAi9GfGsN1WvtWlz_PJYtGe3mwBM17_roF8rHw5CZ0/exec');
-
-  $('#allegaButton').addClass('hide');
-
-
-  });
-
-
-$('#konfiguratorLink').click(function () {
-
-  window.open('http://konfigurator.aluplast.net');
-
-});
 
 
 
