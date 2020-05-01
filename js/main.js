@@ -150,7 +150,7 @@ jQuery(document).ready(function( $ ) {
   //Custom code
 
   // Modal Coronavirus (COVID-19)
-  $('#myModalAnnounce').modal('show');
+  /*$('#myModalAnnounce').modal('show');*/
 
   // Modal Allega File
   $('#allegaButton').click(function() {

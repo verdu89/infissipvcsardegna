@@ -3,20 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accessori.html" beforeDir="false" afterPath="$PROJECT_DIR$/accessori.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colorazioni.html" beforeDir="false" afterPath="$PROJECT_DIR$/colorazioni.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookiepolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/cookiepolicy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finestrePVC.html" beforeDir="false" afterPath="$PROJECT_DIR$/finestrePVC.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infissiCagliari.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiCagliari.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infissiNuoro.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiNuoro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infissiSassariChiusa.html" beforeDir="false" afterPath="$PROJECT_DIR$/infissiSassariChiusa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/persiane.html" beforeDir="false" afterPath="$PROJECT_DIR$/persiane.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portoni.html" beforeDir="false" afterPath="$PROJECT_DIR$/portoni.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posa.html" beforeDir="false" afterPath="$PROJECT_DIR$/posa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speciali.html" beforeDir="false" afterPath="$PROJECT_DIR$/speciali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stabilimento.html" beforeDir="false" afterPath="$PROJECT_DIR$/stabilimento.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vetrate-panoramiche.html" beforeDir="false" afterPath="$PROJECT_DIR$/vetrate-panoramiche.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaScudo.html" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaScudo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
