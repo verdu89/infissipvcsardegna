@@ -149,17 +149,21 @@ jQuery(document).ready(function( $ ) {
 
   //Custom code
 
+  // cambia immagine SCUDO
+  changeImage();
+
+
   // Modal Coronavirus (COVID-19)
   /*$('#myModalAnnounce').modal('show');*/
 
   // Modal Allega File
-  $('#allegaButton').click(function() {
+/*  $('#allegaButton').click(function() {
 
     $('#modalAttachFile').modal('show');
     $('#allegaButton').addClass('hide');
 
 
-  });
+  });*/
 
 
   //Modal Youtube
@@ -183,8 +187,7 @@ function doSubmit() {
     email: $('#email').val(),
     phone: $('#phone').val(),
     place: $('#place').val(),
-    message: $('#message').val(),
-    attachedFile: isFileAttached()
+    message: $('#message').val()
   };
 
   $.ajax({
@@ -223,18 +226,17 @@ function setThanksButton() {
 
 }
 
-function isFileAttached() {
+function  changeImage() {
+  let image = $('#news')
+  let interval = window.setInterval(function () {
+        if (image.attr("src") === "img/news.png"){
+          $("#news").attr("src", "img/newsLamp.png")
 
-  let result = "Non ci sono allegati"
-  let toBeAnalized = $('#allegaButton');
-  if (toBeAnalized.hasClass('hide')){
-    result = "Ci dovrebbero essere allegati, controlla drive "
+        }else {$("#news").attr("src", "img/news.png")}
+  }, 1000)
 
-  }
 
-  return result
 }
-
 
 
 

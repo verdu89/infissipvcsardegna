@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/news.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prodotti/scudo2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sistemaScudo.html" beforeDir="false" afterPath="$PROJECT_DIR$/sistemaScudo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,6 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -125,11 +128,13 @@
       <workItem from="1585151769668" duration="488000" />
       <workItem from="1585231272779" duration="175000" />
       <workItem from="1586174384784" duration="984000" />
+      <workItem from="1588406505170" duration="6000" />
+      <workItem from="1588406532752" duration="10797000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -156,10 +161,10 @@
       <screen x="41" y="27" width="1325" height="741" />
     </state>
     <state x="352" y="115" width="700" height="530" key="recent.locations.popup/41.27.1325.741@41.27.1325.741" timestamp="1584894355209" />
-    <state x="367" y="175" width="672" height="677" key="run.anything.popup" timestamp="1585099520126">
+    <state x="367" y="175" width="672" height="677" key="run.anything.popup" timestamp="1588416831154">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="367" y="175" width="672" height="677" key="run.anything.popup/41.27.1325.741@41.27.1325.741" timestamp="1585099520126" />
+    <state x="367" y="175" width="672" height="677" key="run.anything.popup/41.27.1325.741@41.27.1325.741" timestamp="1588416831154" />
     <state x="366" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584797815430">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
