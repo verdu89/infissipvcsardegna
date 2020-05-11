@@ -3,18 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/news.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/prodotti/scudo2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="infissipvcsardegna.com" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,7 +124,11 @@
       <workItem from="1585231272779" duration="175000" />
       <workItem from="1586174384784" duration="984000" />
       <workItem from="1588406505170" duration="6000" />
-      <workItem from="1588406532752" duration="10797000" />
+      <workItem from="1588406532752" duration="11393000" />
+      <workItem from="1588421702811" duration="607000" />
+      <workItem from="1588870666769" duration="2160000" />
+      <workItem from="1589186637351" duration="67000" />
+      <workItem from="1589187676609" duration="567000" />
     </task>
     <servers />
   </component>
