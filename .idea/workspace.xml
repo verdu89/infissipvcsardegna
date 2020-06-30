@@ -4,7 +4,7 @@
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landingpage2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingpage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,13 @@
       <workItem from="1589186637351" duration="67000" />
       <workItem from="1589187676609" duration="1275000" />
       <workItem from="1589289005806" duration="2121000" />
-      <workItem from="1589308087960" duration="3058000" />
+      <workItem from="1589308087960" duration="3267000" />
+      <workItem from="1589635277804" duration="1789000" />
+      <workItem from="1589637163344" duration="187000" />
+      <workItem from="1589790059935" duration="1314000" />
+      <workItem from="1589901176377" duration="597000" />
+      <workItem from="1591724688751" duration="22000" />
+      <workItem from="1593538274989" duration="392000" />
     </task>
     <servers />
   </component>
@@ -150,10 +156,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585231433395">
+    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591724707200">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
-    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl/41.27.1325.741@41.27.1325.741" timestamp="1585231433395" />
+    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl/41.27.1325.741@41.27.1325.741" timestamp="1591724707200" />
     <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585087021404">
       <screen x="41" y="27" width="1325" height="741" />
     </state>
