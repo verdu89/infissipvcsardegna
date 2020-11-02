@@ -2,9 +2,356 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebcfd43e-3c1e-4309-a9ff-1f0d131f30a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/accessori.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/advertise/homead-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/advertise/homead1-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/advertise/homead2-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/advertise/homead3-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/colorazioni.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cookiepolicy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/css/stylelandingpage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/finestrePVC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/about-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/aluplast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/05mogano.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/16sorrento.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/23goldenOak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/24cherryamaretto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/27noce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/28noceTerra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/29amaretto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/30verdeScuro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/57koloniale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/59biancoFrassino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/60grigio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/63alluminioSpazzolato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/big/75sheffieldOak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/05mogano.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/16sorrento.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/23goldenOak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/24cherryamaretto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/27noce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/28noceTerra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/29amaretto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/30verdeScuro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/57koloniale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/59biancoFrassino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/60grigio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/63alluminioSpazzolato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/colori/miniature/75sheffieldOak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/finestre_pvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/italianflag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/newsLamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/app1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/app2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/app3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/big/foto9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/card1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/card2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/card3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/logo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/logo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/logo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/foto9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/miniature/fotolino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/web1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/portfolio/web3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/IMG-20190513-WA0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/avvopvc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/bilicotrasp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/bilicotrsp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/finestra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/finestre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/ideal4000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/ideal5000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/ideal8000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/persiane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/persiane2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/portoni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/portoni2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/posa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/prezzi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/provafinestre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/restauro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/scorrevole1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/scorrevoli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/scudo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/spaccatohst.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/spaccatopersiana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/spaccatopersiana3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/strisciapersiane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/strisciaportoni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/vetrata1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/vetrataFold.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/vetrataIndex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/vetratavista.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/zanza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img/prodotti/zanzariera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/infissiCagliari.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/infissiNuoro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/infissiSassariChiusa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/js/landingPages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/js/manutenzione.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/landingpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/landingpage2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/accessori.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/colorazioni.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/cookiepolicy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/counterup/counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/easing/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/easing/easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/finestrePVC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/about-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/aluplast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/05mogano.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/16sorrento.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/23goldenOak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/24cherryamaretto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/27noce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/28noceTerra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/29amaretto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/30verdeScuro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/57koloniale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/59biancoFrassino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/60grigio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/63alluminioSpazzolato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/big/75sheffieldOak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/05mogano.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/16sorrento.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/23goldenOak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/24cherryamaretto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/27noce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/28noceTerra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/29amaretto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/30verdeScuro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/57koloniale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/59biancoFrassino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/60grigio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/63alluminioSpazzolato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/colori/miniature/75sheffieldOak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/finestre_pvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/app1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/app2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/app3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/big/foto9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/card1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/card2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/card3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/logo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/logo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/logo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/foto9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/miniature/fotolino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/web1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/portfolio/web3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/avvopvc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/bilicotrasp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/bilicotrsp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/finestra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/finestre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/ideal4000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/ideal5000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/ideal8000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/persiane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/persiane2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/portoni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/portoni2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/posa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/provafinestre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/restauro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/scorrevole1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/scorrevoli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/spaccatohst.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/spaccatopersiana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/spaccatopersiana3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/strisciapersiane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/strisciaportoni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/zanza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/img/prodotti/zanzariera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/infissiCagliari.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/infissiNuoro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/infissiSassariChiusa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/ionicons/css/ionicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/isotope/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/isotope/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/jquery/jquery-migrate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/js/manutenzione.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/js/privacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/counterup/counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/easing/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/easing/easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/ionicons/css/ionicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/isotope/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/isotope/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/jquery/jquery-migrate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/lightbox/links.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/assets/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/assets/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/owlcarousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/superfish/hoverIntent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/superfish/superfish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/superfish/superfish.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/touchSwipe/jquery.touchSwipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/touchSwipe/jquery.touchSwipe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/waypoints/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/wow/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lib/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/lightbox/links.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/manutenzione.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/assets/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/assets/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/owlcarousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/persiane.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/portoni.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/posa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/speciali.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/stabilimento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/superfish/hoverIntent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/superfish/superfish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/superfish/superfish.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/touchSwipe/jquery.touchSwipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/touchSwipe/jquery.touchSwipe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/waypoints/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/wow/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lib/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/manutenzione.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/persiane.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portoni.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/posa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sistemaScudo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/speciali.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stabilimento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vetrate-panoramiche.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landingpage2.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +388,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -137,11 +486,12 @@
       <workItem from="1589901176377" duration="597000" />
       <workItem from="1591724688751" duration="22000" />
       <workItem from="1593538274989" duration="392000" />
+      <workItem from="1604335065864" duration="1251000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -156,25 +506,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591724707200">
-      <screen x="41" y="27" width="1325" height="741" />
+    <state x="197" y="132" width="1278" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604335977569">
+      <screen x="58" y="27" width="1478" height="837" />
     </state>
-    <state x="486" y="156" width="424" height="484" key="FileChooserDialogImpl/41.27.1325.741@41.27.1325.741" timestamp="1591724707200" />
-    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585087021404">
-      <screen x="41" y="27" width="1325" height="741" />
-    </state>
-    <state x="367" y="39" width="662" height="720" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/41.27.1325.741@41.27.1325.741" timestamp="1585087021404" />
-    <state x="352" y="115" width="700" height="530" key="recent.locations.popup" timestamp="1584894355210">
-      <screen x="41" y="27" width="1325" height="741" />
-    </state>
-    <state x="352" y="115" width="700" height="530" key="recent.locations.popup/41.27.1325.741@41.27.1325.741" timestamp="1584894355209" />
-    <state x="367" y="175" width="672" height="677" key="run.anything.popup" timestamp="1588416831154">
-      <screen x="41" y="27" width="1325" height="741" />
-    </state>
-    <state x="367" y="175" width="672" height="677" key="run.anything.popup/41.27.1325.741@41.27.1325.741" timestamp="1588416831154" />
-    <state x="366" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584797815430">
-      <screen x="41" y="27" width="1325" height="741" />
-    </state>
-    <state x="366" y="89" width="672" height="678" key="search.everywhere.popup/41.27.1325.741@41.27.1325.741" timestamp="1584797815430" />
+    <state x="197" y="132" width="1278" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog/58.27.1478.837@58.27.1478.837" timestamp="1604335977569" />
   </component>
 </project>
