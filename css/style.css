@@ -1291,9 +1291,22 @@ button#gdpr-cookie-advanced {
   margin-right: 5px;
 }
 
-
-
-
-
-
 iframe {width:100%;  min-height:300px;}
+
+.fa-facebook-square{
+  color: blue;
+
+}
+.fa-instagram {
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.fa-youtube-square {
+  color: red;
+
+}
+.fa-envelope-square{
+  color: black;
+}
