@@ -157,6 +157,7 @@ function doSubmit() {
      name: $('#name').val(),
      email: $('#email').val(),
      phone: $('#phone').val(),
+     place: $('#place').val(),
      message: $('#message').val()
    };
 
@@ -185,6 +186,7 @@ function setThanksButton() {
   $('#name').val('') ;
   $('#email').val('');
   $('#phone').val('');
+  $('#place').val('');
   $('#message').val('');
   $('#checkboxForm').prop('checked', false);
 }
